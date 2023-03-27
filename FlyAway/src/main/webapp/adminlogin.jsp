@@ -18,6 +18,9 @@
 		Password:<input type="password" name="password"> 
 			<input type="submit" value="Submit">
 	</form>
+	
+	<br>
+	<a href="index.jsp">Home</a>
 	</div>
 </body>
 </html>

@@ -21,7 +21,7 @@
 <label for="source">Source</label>
 <select id="source" name="source">
 <option value="Bengaluru">Bengaluru</option>
-<option value="IHyderabad">Hyderabad</option>
+<option value="Hyderabad">Hyderabad</option>
 <option value="Pune">Pune</option>
 <option value="Chennai">Chennai</option>
 <option value="Mumbai">Mumbai</option>
@@ -40,7 +40,7 @@
 <option value="Pune">Pune</option>
 <option value="Chennai">Chennai</option>
 <option value="Thiruvananthapuram">Thiruvananthapuram</option>
-<option value="IHyderabad">Hyderabad</option>
+<option value="Hyderabad">Hyderabad</option>
 <option value="Delhi">Delhi</option>
 </select>
 </div>
